@@ -1,5 +1,5 @@
 python-telegram-bot==20.7
-sqlalchemy==2.0.27
+sqlalchemy==2.0.28
 stripe==7.11.0
 paypalrestsdk==1.13.1
 coinbase-commerce==1.0.1
